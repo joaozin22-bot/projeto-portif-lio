@@ -1,4 +1,4 @@
-PROJETO PORTIFOLIO EM HMTL
+#PROJETO PORTIFOLIO EM HMTL
 projeto desenvolvido para criar um portfolio básico utilizando apenas estrutura em HMTL sem css;
 o que pratiquei:
 Utilização de tags semânticas;
